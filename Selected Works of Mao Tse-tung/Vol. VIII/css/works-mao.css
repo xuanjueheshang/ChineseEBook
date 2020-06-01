@@ -1,0 +1,189 @@
+BODY {
+	BACKGROUND: #ffffff
+}
+A:link {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #a90017
+}
+A:visited {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #ff0000
+}
+IMG.right {
+	FLOAT: right; MARGIN: 2em
+}
+IMG.left {
+	FLOAT: left; MARGIN: 2em
+}
+IMG.center {
+	align: center
+}
+HR.section {
+	WIDTH: 44%; HEIGHT: 4px; align: center
+}
+HR.base {
+	WIDTH: 92%; HEIGHT: 1px; align: center
+}
+HR.end {
+	WIDTH: 92%; HEIGHT: 2px; align: center
+}
+HR {
+	WIDTH: 94%; HEIGHT: 2px; align: center
+}
+EM {
+	WORD-SPACING: 0.2em
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: xx-large; BACKGROUND: none transparent scroll repeat 0% 0%; MARGIN-LEFT: 36px; COLOR: #a90017; MARGIN-RIGHT: 36px; FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: center
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: large; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #a90017; LINE-HEIGHT: 150%; FONT-FAMILY: "Helvetica", "Arial", sans-serif; TEXT-ALIGN: center
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 22pt; BACKGROUND: none transparent scroll repeat 0% 0%; MARGIN-LEFT: 36px; COLOR: #a90017; MARGIN-RIGHT: 36px; FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: center
+}
+H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; BACKGROUND: none transparent scroll repeat 0% 0%; MARGIN-LEFT: 36px; COLOR: #a90017; LINE-HEIGHT: 150%; MARGIN-RIGHT: 36px; FONT-FAMILY: "Arial", sans-serif; TEXT-ALIGN: center
+}
+H5 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; BACKGROUND: none transparent scroll repeat 0% 0%; MARGIN-LEFT: 36px; COLOR: #a90017; LINE-HEIGHT: 175%; MARGIN-RIGHT: 36px; FONT-FAMILY: "Arial", sans-serif; TEXT-ALIGN: center
+}
+H6 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; BACKGROUND: none transparent scroll repeat 0% 0%; MARGIN-LEFT: 24px; COLOR: #a90017; LINE-HEIGHT: 175%; MARGIN-RIGHT: 36px; FONT-FAMILY: "Arial", sans-serif; TEXT-ALIGN: left
+}
+SUP.anote {
+	FONT-WEIGHT: bold; FONT-SIZE: x-small; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #003300; FONT-FAMILY: "Times", serif; TEXT-DECORATION: none
+}
+SUP.ednote {
+	FONT-WEIGHT: normal; FONT-SIZE: x-small; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #003300; FONT-FAMILY: "Courier New", monospace; TEXT-DECORATION: none
+}
+SPAN.inote {
+	FONT-WEIGHT: normal; FONT-SIZE: 12pt; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #666666; FONT-FAMILY: "Times New Roman", serif
+}
+SPAN.info {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #a90017; FONT-FAMILY: "Arial", sans-serif
+}
+SPAN.date {
+	FONT-WEIGHT: normal; FONT-SIZE: small; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #a90017; FONT-FAMILY: "Arial", sans-serif
+}
+SPAN.term {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #a90017; FONT-FAMILY: "Arial", sans-serif
+}
+SPAN.context {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #999999
+}
+SPAN.greek {
+	FONT-FAMILY: symbol
+}
+P {
+	FONT-SIZE: 12pt; MARGIN-LEFT: 6%; TEXT-INDENT: 1em; LINE-HEIGHT: 150%; MARGIN-RIGHT: 6%; FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: justify
+}
+P.fst {
+	FONT-SIZE: 12pt; MARGIN-LEFT: 6%; TEXT-INDENT: 0em; LINE-HEIGHT: 150%; MARGIN-RIGHT: 6%; FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: justify
+}
+BLOCKQUOTE {
+	FONT-SIZE: 11pt; BACKGROUND: #ffffff; MARGIN-LEFT: 12%; COLOR: #000000; TEXT-INDENT: 0em; LINE-HEIGHT: 150%; MARGIN-RIGHT: 8%; FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: justify
+}
+P.quote {
+	FONT-SIZE: 10pt; MARGIN-LEFT: 12%; TEXT-INDENT: 1em; LINE-HEIGHT: 125%; MARGIN-RIGHT: 12%; FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: justify
+}
+P.quoteb {
+	FONT-SIZE: 10pt; MARGIN-LEFT: 12%; TEXT-INDENT: 0em; LINE-HEIGHT: 150%; MARGIN-RIGHT: 12%; FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: justify
+}
+P.quotec {
+	FONT-SIZE: 10pt; MARGIN-LEFT: 16%; TEXT-INDENT: 0em; LINE-HEIGHT: 150%; MARGIN-RIGHT: 16%; FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: justify
+}
+P.quote-list {
+	FONT-SIZE: 10pt; MARGIN-LEFT: 14%; TEXT-INDENT: -1em; LINE-HEIGHT: 150%; MARGIN-RIGHT: 14%; FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: justify
+}
+P.inline {
+	FONT-SIZE: x-small; BACKGROUND: none transparent scroll repeat 0% 0%; MARGIN-LEFT: 20%; COLOR: #666666; TEXT-INDENT: 0em; MARGIN-RIGHT: 8%; FONT-FAMILY: "Arial", sans-serif; TEXT-ALIGN: right
+}
+P.toc {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; BACKGROUND: none transparent scroll repeat 0% 0%; MARGIN-LEFT: 7%; COLOR: #003300; TEXT-INDENT: 0em; LINE-HEIGHT: 100%; MARGIN-RIGHT: 7%; FONT-FAMILY: "Helvetica", "Arial", sans-serif; TEXT-ALIGN: left
+}
+P.index {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; MARGIN-LEFT: 9%; TEXT-INDENT: 0em; LINE-HEIGHT: 200%; MARGIN-RIGHT: 9%; FONT-FAMILY: "Helvetica", "Arial", sans-serif; TEXT-ALIGN: left
+}
+TABLE.data {
+	FONT-SIZE: 10pt; BACKGROUND: #eeeeee; FONT-FAMILY: "Times", monospace
+}
+TD.head {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; BACKGROUND: #333333; COLOR: #ffeeee; FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: center
+}
+TD.head-data {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; BACKGROUND: #999999; FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: center
+}
+TD.center {
+	TEXT-ALIGN: center
+}
+TR.alt {
+	BACKGROUND: #cccccc
+}
+TR.total {
+	BACKGROUND: #ffcccc
+}
+TR.totalb {
+	BACKGROUND: #ff9999
+}
+TD.index {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; BACKGROUND: #efefef; COLOR: #999999; TEXT-INDENT: 0em; FONT-FAMILY: "Helvetica", "Arial", sans-serif; TEXT-ALIGN: left
+}
+TD.index-alt {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; BACKGROUND: #ffffff; COLOR: #999999; TEXT-INDENT: 0em; FONT-FAMILY: "Helvetica", "Arial", sans-serif; TEXT-ALIGN: left
+}
+TD.indexb {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; BACKGROUND: #ffffff; COLOR: #999999; TEXT-INDENT: 0em; FONT-FAMILY: "Helvetica", "Arial", sans-serif; TEXT-ALIGN: left
+}
+TD.note {
+	FONT-SIZE: small; BACKGROUND: none transparent scroll repeat 0% 0%; MARGIN-LEFT: 10%; COLOR: #444444; LINE-HEIGHT: 115%; MARGIN-RIGHT: 10%; FONT-FAMILY: "Arial", sans-serif; TEXT-ALIGN: justify
+}
+P.indent {
+	FONT-SIZE: 12pt; MARGIN-LEFT: 12%; TEXT-INDENT: 1em; LINE-HEIGHT: 150%; MARGIN-RIGHT: 12%; FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: justify
+}
+P.indentb {
+	FONT-SIZE: 12pt; MARGIN-LEFT: 12%; TEXT-INDENT: 0em; LINE-HEIGHT: 150%; MARGIN-RIGHT: 12%; FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: justify
+}
+P.indentc {
+	FONT-SIZE: 12pt; MARGIN-LEFT: 16%; TEXT-INDENT: 0em; LINE-HEIGHT: 150%; MARGIN-RIGHT: 16%; FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: justify
+}
+P.indentd {
+	FONT-SIZE: 12pt; MARGIN-LEFT: 20%; TEXT-INDENT: 0em; LINE-HEIGHT: 150%; MARGIN-RIGHT: 20%; FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: justify
+}
+P.indent-list {
+	FONT-SIZE: 12pt; MARGIN-LEFT: 12%; TEXT-INDENT: -1em; LINE-HEIGHT: 150%; MARGIN-RIGHT: 12%; FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: justify
+}
+UL.disc {
+	FONT-SIZE: 12pt; MARGIN-LEFT: 15%; TEXT-INDENT: 0em; LINE-HEIGHT: 130%; MARGIN-RIGHT: 14%; FONT-FAMILY: "Times New Roman", serif; LIST-STYLE-TYPE: disc; TEXT-ALIGN: left
+}
+OL.numbered {
+	FONT-SIZE: 12pt; MARGIN-LEFT: 10%; LINE-HEIGHT: 130%; MARGIN-RIGHT: 14%; FONT-FAMILY: "Times New Roman", serif; LIST-STYLE-TYPE: decimal; TEXT-ALIGN: left
+}
+P.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; MARGIN: 1%; TEXT-INDENT: 0em; FONT-FAMILY: "Arial", sans-serif; TEXT-ALIGN: center
+}
+P.information {
+	FONT-SIZE: 12pt; BACKGROUND: none transparent scroll repeat 0% 0%; MARGIN-LEFT: 8%; COLOR: #a90017; TEXT-INDENT: 0em; LINE-HEIGHT: 125%; MARGIN-RIGHT: 8%; FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: left
+}
+P.sig {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; MARGIN-LEFT: 8%; TEXT-INDENT: 0em; LINE-HEIGHT: 125%; FONT-STYLE: italic; FONT-FAMILY: "Times New Roman", script, serif; TEXT-ALIGN: left
+}
+SUP {
+	FONT-WEIGHT: normal; FONT-SIZE: x-small; FONT-FAMILY: "Arial", monospace
+}
+SUB {
+	FONT-WEIGHT: normal; FONT-SIZE: x-small; FONT-FAMILY: "Arial", monospace
+}
+P.pagenote {
+	FONT-SIZE: x-small; BACKGROUND: none transparent scroll repeat 0% 0%; MARGIN-LEFT: 6%; COLOR: #003300; MARGIN-RIGHT: 6%; FONT-FAMILY: "Arial", sans-serif; TEXT-ALIGN: center
+}
+P.pagenoteb {
+	FONT-SIZE: x-small; BACKGROUND: none transparent scroll repeat 0% 0%; MARGIN-LEFT: 10%; COLOR: #666666; LINE-HEIGHT: 115%; MARGIN-RIGHT: 10%; FONT-FAMILY: "Arial", sans-serif; TEXT-ALIGN: justify
+}
+P.skip {
+	LINE-HEIGHT: 75%
+}
+P.next {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; TEXT-INDENT: 0em; LINE-HEIGHT: 125%; FONT-FAMILY: "Arial", sans-serif; TEXT-ALIGN: center
+}
+P.footer {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; MARGIN: 3%; TEXT-INDENT: 0em; FONT-FAMILY: "Arial", sans-serif; TEXT-ALIGN: center
+}
